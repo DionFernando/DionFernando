@@ -28,10 +28,15 @@ Welcome to my GitHub! I build sleek, powerful, and scalable software solutions. 
 
 ## 📊 GitHub Stats
 
+![Dion's GitHub stats](https://github-readme-stats.vercel.app/api?username=DionFernando&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionFernando&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavisha-dion-fernando)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
