@@ -10,7 +10,7 @@ Welcome to my GitHub! I build sleek, powerful, and scalable software solutions. 
 
 ## 🌐 About Me
 
-- 🧑‍🎓 21-year-old undergraduate in Software Engineering.
+- 🧑‍🎓 22-year-old undergraduate in Software Engineering.
 - 💻 Exploring JavaFX, Java Sockets, and full-stack web development.
 - 🎯 Always learning, creating, and pushing tech boundaries.
 - 🌍 I aim to make a difference through impactful software products.
